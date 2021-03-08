@@ -10,7 +10,7 @@
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
     "react-transition-group": "1.1.1",
-    "webpack": "^1.12.2"
+    "webpack": "^2.2.0"
   },
   "scripts": {
     "build": "webpack && NODE_ENV=production webpack -p"
